@@ -15,10 +15,6 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{F5231A64-0960-43BD-9D4F-219D2E711D95} = {A3E817FA-2206-4990-8E3D-47E7CCD579ED}
-		{5BCCE4A9-AA24-4555-B368-6949356971D4} = {FA4A7856-9CEC-4FD2-9A71-4CE30651BD18}
-	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F5231A64-0960-43BD-9D4F-219D2E711D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F5231A64-0960-43BD-9D4F-219D2E711D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
